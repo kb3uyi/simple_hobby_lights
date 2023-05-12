@@ -11,6 +11,7 @@ import traceback
 # Waste of flashRAM to import all these, but here are the class names.         #
 # https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation/tree/main   #
 #------------------------------------------------------------------------------#
+
 from adafruit_led_animation.animation.blink import Blink
 from adafruit_led_animation.animation.chase import Chase
 from adafruit_led_animation.animation.colorcycle import ColorCycle
@@ -32,7 +33,7 @@ from adafruit_led_animation.sequence import AnimationSequence
 import adafruit_led_animation.color as color
 ### RED, YELLOW, ORANGE, GREEN, TEAL, CYAN, BLUE, PURPLE, MAGENTA, WHITE, BLACK, GOLD, PINK, AQUA, JADE, AMBER, OLD_LACE
 
-DEBUG = True
+DEBUG = False
 default_brightness = .1
 brightness = default_brightness
 
