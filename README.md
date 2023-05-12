@@ -1,6 +1,8 @@
 # simple_hobby_lights
 Simple Hobby Lights using neopixels and an Adafruit KB2040
 
+![KB2040 board with leads to NeoPixel](https://user-images.githubusercontent.com/8044076/238046868-b1e72645-3f78-4310-a9cd-e24007bc67ed.jpg)
+
 ## What is this project for?
 I want to use this light for photographing Gundam, 30 Minute Missions, and other little hobby models I build to relax. 
 It has a few modes that look like fire, rainbows, or police lights if you bounce it off a background or use a diffuser.
