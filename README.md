@@ -19,9 +19,9 @@ It has a few modes that look like fire, rainbows, or police lights if you bounce
 ## Why do this at all? Why those harware choices?
 All of these parts were impulse purchases at MicroCenter while I was working on keyboards and other raspberry pi pico projects. 
 There are definitely better form factors to fit them in a case, or pico boards that provide battery managment.
+
 There is certainly a multi-button proper mount for 4 keyswitches available from Adafruit that connects over stemmaQT. I'm using it for another pico project. 
 
-Everything in this build was laying around doi
-so I just soldered two leads onto a single cherry style switch and made it work.
+Everything in this build was laying around so I just soldered two leads onto a single cherry style switch and made it work.
 The price was right. 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
